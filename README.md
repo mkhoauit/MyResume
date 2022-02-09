@@ -13,7 +13,12 @@ To expand my skill through external training to have experience in developing we
 | ---------------------------- | ----------------- | ------------------ | -------------------- |
 | **Git**            | Learning Git and SSH key | Git, Github, Gitlab, SourceTree  |                      |
 | **Markdown** | Create the Markdown resume  | Github, Markdown Editor   |                      |
-
+| **Docker** | Create container has 1 db MySql| Docker, Beekeeper   | file: .yml, .yaml                       |
+| **DotNet** | Create EF Connect Sqlite,MySql  | JetBrain, Beekeeper   |                      |
+| **UnitTest** | Create unit test for EF   | JetBrain, Beekeeper   |                      |
+| **WebAPI** | Create small web api that connect to db in Docker | JetBrain, Beekeeper, Docker   |                      |
+| **UnitTest for API** | Create small UnitTest for web api that connect to InMemmoryDatabase | JetBrain   | Check again with db in Beekeeper                     |
+| **ReactJS** | Create-react-app my-app, learing what react can do and why it hot? | CommandLine   |                      |
 
 ## <id name ="education">Education</id>
 ### [University of Information Technology], Ho Chi Minh
@@ -24,6 +29,10 @@ To expand my skill through external training to have experience in developing we
 **Software Engineer Internship** (  2021 -  2022 )
 - Learing how to work with Git
 - Create the Markdown resume
+- Create EF that connect Sqlite, MySQL
+- Test EF with Unit Test
+- Create small web API that connect to db by Docker (or file .yml, .yaml)
+- Test web API by using InMemoryDatabase.
 
 
 ## <id name ="interests">Interests</id>
