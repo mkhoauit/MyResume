@@ -6,7 +6,7 @@ I am a fresher web developer with experience in backend development. During univ
 
 To expand my skill through external training to have experience in developing web. As an eager, curious fresher developer with doable attitude, I am willing to take many opportunities as I can to contribute to company yet bring values to customers by adapting to any programming languages that are required in given projects.
 ## <id name ="skills">Skills</id>
-**Technologies**: HTML, CSS, Java, SQL.
+**Technologies**: HTML, CSS, Java, SQL, DotNet, UnitTest, WebAPI
 
 ## <id name ="projects">Projects</id>
 | Project                      | Description       | Technologies/tools | Testing Technologies |
